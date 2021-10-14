@@ -12,12 +12,12 @@
 ## Resources
 
 ### WebRTC Resources
-[https://webrtc.org/](https://webrtc.org/)
-[https://webrtchacks.com/](https://webrtchacks.com/)
-[https://www.html5rocks.com/en/tutorials/webrtc/basics/](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
-[MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API#webrtc_concepts_and_usage)
-[Examples](https://webrtc.github.io/samples/)
+- [https://webrtc.org/](https://webrtc.org/)
+- [https://webrtchacks.com/](https://webrtchacks.com/)
+- [https://www.html5rocks.com/en/tutorials/webrtc/basics/](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API#webrtc_concepts_and_usage)
+- [Examples](https://webrtc.github.io/samples/)
 
 ### OSS Solutions
-[Pion server](https://pionion.github.io/)
-[Jitsi](https://jitsi.org/)
+- [Pion server](https://pionion.github.io/)
+- [Jitsi](https://jitsi.org/)
