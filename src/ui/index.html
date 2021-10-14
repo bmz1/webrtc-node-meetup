@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebRTC demo</title>
+  </head>
+  <body>
+    <div class="videos">
+      <div class="video">
+        <h4>Client 1</h4>
+        <video autoplay muted id="localStream"></video>
+      </div>
+      <div class="video">
+        <h4>Client 2</h4>
+        <video autoplay muted id="remoteStream"></video>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button id="camera">Start cam</button>
+      <button id="call" disabled>Call</button>
+      <button id="hangup" disabled>Hangup</button>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
